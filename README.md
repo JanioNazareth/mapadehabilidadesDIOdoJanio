@@ -1,9 +1,12 @@
 # mapadehabilidadesDIOdoJanio
-mapa de habilidades Dio com as 3 etapas do Janio
 # Mapa de Habilidades DIO
 
 Acesse o aplicativo aqui:  
 👉 **https://mapa-de-habilidades-dio-do-janio.lovable.app/**
+
+## 🖼️ Preview do Aplicativo
+
+![Screenshot do aplicativo](https://raw.githubusercontent.com/JanioNazareth/mapadehabilidadesDIOdoJanio/main/Screenshot%202026-02-22%20202103.png)
 
 O **Mapa de Habilidades DIO** é um aplicativo interativo dividido em 5 etapas, projetado para ajudar o usuário a identificar suas habilidades, entender sua aplicabilidade no mercado e gerar automaticamente conteúdos estratégicos com apoio de IA.
 
@@ -125,6 +128,11 @@ Botão opcional: **Gerar PDF**
 - Zustand / Context API  
 - TailwindCSS  
 - Biblioteca de PDF (react-pdf, pdfmake etc.)
+
+---
+
+## 📄 Licença
+Este projeto utiliza a licença MIT (ver arquivo LICENSE).
 
 ---
 
